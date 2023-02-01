@@ -1,0 +1,4126 @@
+{
+  "aspectWidth": 16,
+  "aspectHeight": 9,
+  "enableKeyboardZoom": true,
+  "enableKeyboardRotation": true,
+  "enableKeyboardNavigation": true,
+  "enableMouseTranslation": true,
+  "enableMouseZoom": true,
+  "enableMouseRotation": true,
+  "enableMouseNavigation": true,
+  "updateURLOnFrameChange": true,
+  "frames": [
+    {
+      "frameId": "frame4431",
+      "title": "LEP",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": false,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "layer1": {
+          "link": false,
+          "referenceElementId": "rect6711-3",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer3": {
+          "link": false,
+          "referenceElementId": "path6927",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer9": {
+          "link": false,
+          "referenceElementId": "path6929",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer8": {
+          "link": false,
+          "referenceElementId": "path6675-0",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer7": {
+          "link": false,
+          "referenceElementId": "path6653",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer6": {
+          "link": false,
+          "referenceElementId": "path8079",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer5": {
+          "link": false,
+          "referenceElementId": "path6933",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer4": {
+          "link": false,
+          "referenceElementId": "rect8266",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "path6933",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "layer1": {
+          "cx": 3848.95125432452,
+          "cy": 343.40111329389595,
+          "width": 41.8779660881719,
+          "height": 23.537251013060114,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878343,
+          "clipHeightFactor": 0.9999999999999996
+        },
+        "layer3": {
+          "cx": 1245.4522308870203,
+          "cy": 343.4011171085932,
+          "width": 41.877966088171924,
+          "height": 23.537251013060118,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878343,
+          "clipHeightFactor": 0.9999999999999996
+        },
+        "layer9": {
+          "cx": 1245.4523527342405,
+          "cy": 343.40111723827874,
+          "width": 41.87796579538505,
+          "height": 23.53725084850109,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878338,
+          "clipHeightFactor": 0.9999999999999993
+        },
+        "layer8": {
+          "cx": 1245.4523527342405,
+          "cy": 343.40111723827874,
+          "width": 41.87796579538511,
+          "height": 23.53725084850112,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878332,
+          "clipHeightFactor": 0.9999999999999991
+        },
+        "layer7": {
+          "cx": 1245.4522308870203,
+          "cy": 343.4011171085932,
+          "width": 41.877966088171895,
+          "height": 23.537251013060118,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878343,
+          "clipHeightFactor": 0.9999999999999996
+        },
+        "layer6": {
+          "cx": 1245.4523527342405,
+          "cy": 343.40111723827874,
+          "width": 41.877965795385116,
+          "height": 23.53725084850112,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878329,
+          "clipHeightFactor": 0.9999999999999991
+        },
+        "layer5": {
+          "cx": 1245.4522308870203,
+          "cy": 343.4011171085932,
+          "width": 41.877966088171924,
+          "height": 23.537251013060118,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878343,
+          "clipHeightFactor": 0.9999999999999996
+        },
+        "layer4": {
+          "cx": 1220.230595463548,
+          "cy": 357.9400387744761,
+          "width": 8.81869420224067,
+          "height": 2.2091354792229025,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999989,
+          "clipHeightFactor": 0.8147134767425516
+        },
+        "__sozi_auto__": {
+          "cx": 1245.4522308870203,
+          "cy": 343.4011171085932,
+          "width": 41.877966088171924,
+          "height": 23.537251013060118,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878343,
+          "clipHeightFactor": 0.9999999999999996
+        }
+      },
+      "cameraOffsets": {
+        "layer3": {
+          "deltaX": -492.1903472379797,
+          "deltaY": -279.4532530085943,
+          "widthFactor": 0.040244628401107846,
+          "heightFactor": 0.015079491709353724,
+          "deltaAngle": 0
+        },
+        "layer9": {
+          "deltaX": 28.10188886705305,
+          "deltaY": -19.306890574221256,
+          "widthFactor": 0.02876181553743739,
+          "heightFactor": 0.016165399973596197,
+          "deltaAngle": 0
+        },
+        "layer8": {
+          "deltaX": 28.10213300767805,
+          "deltaY": -19.306890574221256,
+          "widthFactor": 0.05661142043764995,
+          "heightFactor": 0.031787234173358825,
+          "deltaAngle": 0
+        },
+        "layer7": {
+          "deltaX": -55.71842340985472,
+          "deltaY": 31.130182049999462,
+          "widthFactor": 0.4945739855709456,
+          "heightFactor": 0.2807203815606773,
+          "deltaAngle": -19.510219941803456
+        },
+        "layer6": {
+          "deltaX": 26.45650312486555,
+          "deltaY": -22.798528757815006,
+          "widthFactor": 0.2948421317040675,
+          "heightFactor": 0.16555317318780788,
+          "deltaAngle": 0
+        },
+        "layer5": {
+          "deltaX": 548.3946747346765,
+          "deltaY": -279.45319197343804,
+          "widthFactor": 0.040244628401107846,
+          "heightFactor": 0.015079490686710382,
+          "deltaAngle": 0
+        },
+        "layer4": {
+          "deltaX": 0.032963627610570256,
+          "deltaY": -0.5284365673207958,
+          "widthFactor": 1.6523691921927561,
+          "heightFactor": 2.2091354792229025,
+          "deltaAngle": 0
+        },
+        "__sozi_auto__": {
+          "deltaX": 548.3946747346765,
+          "deltaY": -279.45319197343804,
+          "widthFactor": 0.040244628401107846,
+          "heightFactor": 0.015079490686710382,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "frame1035",
+      "title": "LEP",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": false,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "layer1": {
+          "link": false,
+          "referenceElementId": "rect8062",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer3": {
+          "link": false,
+          "referenceElementId": "path6933",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer9": {
+          "link": false,
+          "referenceElementId": "path6929",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer8": {
+          "link": false,
+          "referenceElementId": "path6675-0",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer7": {
+          "link": false,
+          "referenceElementId": "path6673",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer6": {
+          "link": false,
+          "referenceElementId": "rect8119",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer5": {
+          "link": false,
+          "referenceElementId": "path6933",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer4": {
+          "link": false,
+          "referenceElementId": "path10930",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "path6933",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "layer1": {
+          "cx": 1210.3625174679232,
+          "cy": 362.06368213784594,
+          "width": 135.060626073808,
+          "height": 75.90998691739574,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878314,
+          "clipHeightFactor": 0.37465414404868985
+        },
+        "layer3": {
+          "cx": 1210.3625174679232,
+          "cy": 362.06368213784594,
+          "width": 135.060626073808,
+          "height": 75.90998691739574,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878314,
+          "clipHeightFactor": 0.9999999999999978
+        },
+        "layer9": {
+          "cx": 1210.36263956047,
+          "cy": 362.0636821370531,
+          "width": 135.060625129541,
+          "height": 75.90998638667632,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878318,
+          "clipHeightFactor": 0.9999999999999979
+        },
+        "layer8": {
+          "cx": 1210.36263956047,
+          "cy": 362.0636821370531,
+          "width": 135.0606251295412,
+          "height": 75.90998638667644,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878316,
+          "clipHeightFactor": 0.9999999999999977
+        },
+        "layer7": {
+          "cx": 1210.3625174679232,
+          "cy": 362.06368213784594,
+          "width": 135.06062607380798,
+          "height": 75.90998691739573,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878318,
+          "clipHeightFactor": 0.9999999999999978
+        },
+        "layer6": {
+          "cx": 1210.36263956047,
+          "cy": 362.0636821370531,
+          "width": 135.0606251295412,
+          "height": 75.90998638667644,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878314,
+          "clipHeightFactor": 0.999999999999998
+        },
+        "layer5": {
+          "cx": 1210.3625174679232,
+          "cy": 362.06368213784594,
+          "width": 135.060626073808,
+          "height": 75.90998691739574,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878314,
+          "clipHeightFactor": 0.9999999999999978
+        },
+        "layer4": {
+          "cx": 1213.275829184128,
+          "cy": 361.9033123550946,
+          "width": 9.897901471645259,
+          "height": 5.56305411180062,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999962,
+          "clipHeightFactor": 0.5036352587538573
+        },
+        "__sozi_auto__": {
+          "cx": 1210.3625174679232,
+          "cy": 362.06368213784594,
+          "width": 135.060626073808,
+          "height": 75.90998691739574,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878314,
+          "clipHeightFactor": 0.9999999999999978
+        }
+      },
+      "cameraOffsets": {
+        "layer1": {
+          "deltaX": -9.843903430514274,
+          "deltaY": 3.5920329679240695,
+          "widthFactor": 24.74397832956117,
+          "heightFactor": 75.90998691739574,
+          "deltaAngle": 0
+        },
+        "layer3": {
+          "deltaX": 513.3049613155795,
+          "deltaY": -260.7906269441853,
+          "widthFactor": 0.1297929487911922,
+          "heightFactor": 0.048632864564941126,
+          "deltaAngle": 0
+        },
+        "layer9": {
+          "deltaX": -6.9878243067175845,
+          "deltaY": -0.6443256754469076,
+          "widthFactor": 0.09275972967089342,
+          "heightFactor": 0.0521350305449547,
+          "deltaAngle": 0
+        },
+        "layer8": {
+          "deltaX": -6.9875801660925845,
+          "deltaY": -0.6443256754469076,
+          "widthFactor": 0.18257748886701802,
+          "heightFactor": 0.10251700714331408,
+          "deltaAngle": 0
+        },
+        "layer7": {
+          "deltaX": 91.45175086636073,
+          "deltaY": -61.852150381685306,
+          "widthFactor": 2.1865631823642055,
+          "heightFactor": 1.230910471393432,
+          "deltaAngle": -90.56505535463214
+        },
+        "layer6": {
+          "deltaX": 43.764983310469916,
+          "deltaY": -41.05933422036878,
+          "widthFactor": 3.286207720715755,
+          "heightFactor": 7.253458822777485,
+          "deltaAngle": 0
+        },
+        "layer5": {
+          "deltaX": 513.3049613155795,
+          "deltaY": -260.7906269441853,
+          "widthFactor": 0.1297929487911922,
+          "heightFactor": 0.048632864564941126,
+          "deltaAngle": 0
+        },
+        "layer4": {
+          "deltaX": 1.2873037935030425,
+          "deltaY": -0.09207949060851206,
+          "widthFactor": 9.897901471645259,
+          "heightFactor": 5.56305411180062,
+          "deltaAngle": 0
+        },
+        "__sozi_auto__": {
+          "deltaX": 513.3049613155795,
+          "deltaY": -260.7906269441853,
+          "widthFactor": 0.1297929487911922,
+          "heightFactor": 0.048632864564941126,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "frame7772",
+      "title": "New frame",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "layer1": {
+          "link": false,
+          "referenceElementId": "rect8062",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer3": {
+          "link": false,
+          "referenceElementId": "path6927",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer9": {
+          "link": false,
+          "referenceElementId": "path6929",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer8": {
+          "link": false,
+          "referenceElementId": "path6675-0",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer7": {
+          "link": false,
+          "referenceElementId": "path6653",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer6": {
+          "link": false,
+          "referenceElementId": "path8079",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer5": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer4": {
+          "link": false,
+          "referenceElementId": "image9310",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "layer1": {
+          "cx": 1220.2974983394029,
+          "cy": 352.47134588617934,
+          "width": 15.7641638087992,
+          "height": 8.870942362564229,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999989,
+          "clipHeightFactor": 0.9999999999999993
+        },
+        "layer3": {
+          "cx": 1220.2976204097154,
+          "cy": 352.47134588617934,
+          "width": 15.76416369858517,
+          "height": 8.87094230054366,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999989,
+          "clipHeightFactor": 0.9999999999999993
+        },
+        "layer9": {
+          "cx": 1220.2976204097154,
+          "cy": 352.47134588617934,
+          "width": 15.764163698585149,
+          "height": 8.870942300543653,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999989,
+          "clipHeightFactor": 0.9999999999999993
+        },
+        "layer8": {
+          "cx": 1220.2976204097154,
+          "cy": 352.47134588617934,
+          "width": 15.764163698585156,
+          "height": 8.870942300543653,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999989,
+          "clipHeightFactor": 0.9999999999999993
+        },
+        "layer7": {
+          "cx": 1220.2976204097154,
+          "cy": 352.47134588617934,
+          "width": 15.764163698585156,
+          "height": 8.870942300543657,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999989,
+          "clipHeightFactor": 0.9999999999999993
+        },
+        "layer6": {
+          "cx": 1220.2976204097154,
+          "cy": 352.47134588617934,
+          "width": 15.764163698585152,
+          "height": 8.870942300543659,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999989,
+          "clipHeightFactor": 0.9999999999999993
+        },
+        "layer5": {
+          "cx": 1220.6240403644974,
+          "cy": 352.45214471236864,
+          "width": 15.764163698585152,
+          "height": 8.870942300543655,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999989,
+          "clipHeightFactor": 0.9999999999999993
+        },
+        "layer4": {
+          "cx": 1220.2976204097154,
+          "cy": 352.47134588617934,
+          "width": 15.764163698585154,
+          "height": 8.870942300543657,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999989,
+          "clipHeightFactor": 0.9999999999999993
+        },
+        "__sozi_auto__": {
+          "cx": 1220.2976204097154,
+          "cy": 352.47134588617934,
+          "width": 15.764163698585152,
+          "height": 8.870942300543655,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999989,
+          "clipHeightFactor": 0.9999999999999993
+        }
+      },
+      "cameraOffsets": {
+        "layer1": {
+          "deltaX": 0.09107744096536408,
+          "deltaY": -6.000303283742539,
+          "widthFactor": 2.888096546031226,
+          "heightFactor": 8.870942362564229,
+          "deltaAngle": 0
+        },
+        "layer3": {
+          "deltaX": -517.3449577152846,
+          "deltaY": -270.38302423100816,
+          "widthFactor": 0.015149324796912271,
+          "heightFactor": 0.005683301792591615,
+          "deltaAngle": 0
+        },
+        "layer9": {
+          "deltaX": 2.947156542527864,
+          "deltaY": -10.236661926320664,
+          "widthFactor": 0.010826838405093643,
+          "heightFactor": 0.0060925692364838776,
+          "deltaAngle": 0
+        },
+        "layer8": {
+          "deltaX": 2.947400683152864,
+          "deltaY": -10.236661926320664,
+          "widthFactor": 0.021310292466184873,
+          "heightFactor": 0.011980274249560142,
+          "deltaAngle": 0
+        },
+        "layer7": {
+          "deltaX": -80.87303388715964,
+          "deltaY": 40.200410827585586,
+          "widthFactor": 0.18617296869639885,
+          "heightFactor": 0.10580055869861779,
+          "deltaAngle": -19.510219941803456
+        },
+        "layer6": {
+          "deltaX": 1.301770800340364,
+          "deltaY": -13.728300109914414,
+          "widthFactor": 0.11098771253915392,
+          "heightFactor": 0.062395249830737055,
+          "deltaAngle": 0
+        },
+        "layer4": {
+          "deltaX": 0.6226936519028641,
+          "deltaY": 1.1122760619605856,
+          "widthFactor": 1.6151919082788215,
+          "heightFactor": 4.153897737236248,
+          "deltaAngle": 5.47619354204366
+        }
+      }
+    },
+    {
+      "frameId": "frame7531",
+      "title": "New frame",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "layer1": {
+          "link": false,
+          "referenceElementId": "rect8062",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer3": {
+          "link": false,
+          "referenceElementId": "path6927",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer9": {
+          "link": false,
+          "referenceElementId": "path6929",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer8": {
+          "link": false,
+          "referenceElementId": "path6675-0",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer7": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer6": {
+          "link": false,
+          "referenceElementId": "path8079",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer5": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer4": {
+          "link": false,
+          "referenceElementId": "path860-8-2",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "layer1": {
+          "cx": 1228.9163989820768,
+          "cy": 362.6509921907254,
+          "width": 17.379990599201125,
+          "height": 3.664197687821327,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999984,
+          "clipHeightFactor": 0.9999999999999991
+        },
+        "layer3": {
+          "cx": 1228.9165210523893,
+          "cy": 362.6509921907254,
+          "width": 17.379990477690157,
+          "height": 9.780213886349392,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999984,
+          "clipHeightFactor": 0.9999999999999991
+        },
+        "layer9": {
+          "cx": 1228.9165210523893,
+          "cy": 362.6509921907254,
+          "width": 17.379990477690136,
+          "height": 9.780213886349383,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999984,
+          "clipHeightFactor": 0.9999999999999991
+        },
+        "layer8": {
+          "cx": 1228.9165210523893,
+          "cy": 362.6509921907254,
+          "width": 17.379990477690136,
+          "height": 9.780213886349388,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999984,
+          "clipHeightFactor": 0.9999999999999991
+        },
+        "layer7": {
+          "cx": 1228.9165210523893,
+          "cy": 362.6509921907254,
+          "width": 17.37999047769014,
+          "height": 9.780213886349385,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999984,
+          "clipHeightFactor": 0.9999999999999991
+        },
+        "layer6": {
+          "cx": 1228.9165210523893,
+          "cy": 362.6509921907254,
+          "width": 17.379990477690146,
+          "height": 9.780213886349388,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999984,
+          "clipHeightFactor": 0.9999999999999991
+        },
+        "layer5": {
+          "cx": 1228.9165210523893,
+          "cy": 362.6509921907254,
+          "width": 17.37999047769014,
+          "height": 9.780213886349385,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999984,
+          "clipHeightFactor": 0.9999999999999991
+        },
+        "layer4": {
+          "cx": 1228.9165210523893,
+          "cy": 362.6509921907254,
+          "width": 17.379990477690146,
+          "height": 9.780213886349394,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999984,
+          "clipHeightFactor": 0.9999999999999991
+        },
+        "__sozi_auto__": {
+          "cx": 1228.9165210523893,
+          "cy": 362.6509921907254,
+          "width": 17.37999047769014,
+          "height": 9.780213886349385,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999984,
+          "clipHeightFactor": 0.9999999999999991
+        }
+      },
+      "cameraOffsets": {
+        "layer1": {
+          "deltaX": 8.709978083639271,
+          "deltaY": 4.179343020803515,
+          "widthFactor": 3.184126441999428,
+          "heightFactor": 3.664197687821327,
+          "deltaAngle": 0
+        },
+        "layer3": {
+          "deltaX": -508.72605707261073,
+          "deltaY": -260.2033779264621,
+          "widthFactor": 0.016702130588595786,
+          "heightFactor": 0.006265840226332259,
+          "deltaAngle": 0
+        },
+        "layer9": {
+          "deltaX": 11.566057185201771,
+          "deltaY": -0.05701562177461028,
+          "widthFactor": 0.011936589341615747,
+          "heightFactor": 0.006717057583223478,
+          "deltaAngle": 0
+        },
+        "layer8": {
+          "deltaX": 11.566301325826771,
+          "deltaY": -0.05701562177461028,
+          "widthFactor": 0.023494597443968823,
+          "heightFactor": 0.01320825236014007,
+          "deltaAngle": 0
+        },
+        "layer6": {
+          "deltaX": 9.920671443014271,
+          "deltaY": -3.5486538053683603,
+          "widthFactor": 0.1223639530744173,
+          "heightFactor": 0.06879076293838764,
+          "deltaAngle": 0
+        },
+        "layer4": {
+          "deltaX": 0.9380054273892711,
+          "deltaY": 1.0209873079128897,
+          "widthFactor": 7.350881301277999,
+          "heightFactor": 4.095018610181029,
+          "deltaAngle": -119.85158392667455
+        }
+      }
+    },
+    {
+      "frameId": "frame7407",
+      "title": "New frame",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "layer1": {
+          "link": false,
+          "referenceElementId": "rect8062",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer3": {
+          "link": false,
+          "referenceElementId": "path6927",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer9": {
+          "link": false,
+          "referenceElementId": "path6929",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer8": {
+          "link": false,
+          "referenceElementId": "path6675-0",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer7": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer6": {
+          "link": false,
+          "referenceElementId": "path8079",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer5": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer4": {
+          "link": false,
+          "referenceElementId": "path6655-4",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "layer1": {
+          "cx": 1220.4791442177484,
+          "cy": 357.909145906803,
+          "width": 32.77256436696956,
+          "height": 6.909391227343076,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999971,
+          "clipHeightFactor": 0.9999999999999986
+        },
+        "layer3": {
+          "cx": 1220.479266288061,
+          "cy": 357.909145906803,
+          "width": 32.772564137842515,
+          "height": 18.44205192653255,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999969,
+          "clipHeightFactor": 0.9999999999999983
+        },
+        "layer9": {
+          "cx": 1220.479266288061,
+          "cy": 357.909145906803,
+          "width": 32.77256413784247,
+          "height": 18.44205192653255,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999969,
+          "clipHeightFactor": 0.9999999999999983
+        },
+        "layer8": {
+          "cx": 1220.479266288061,
+          "cy": 357.909145906803,
+          "width": 32.77256413784249,
+          "height": 18.44205192653256,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999969,
+          "clipHeightFactor": 0.9999999999999983
+        },
+        "layer7": {
+          "cx": 1220.479266288061,
+          "cy": 357.909145906803,
+          "width": 32.77256413784248,
+          "height": 18.442051926532553,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999969,
+          "clipHeightFactor": 0.9999999999999983
+        },
+        "layer6": {
+          "cx": 1220.479266288061,
+          "cy": 357.909145906803,
+          "width": 32.772564137842494,
+          "height": 18.44205192653256,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999969,
+          "clipHeightFactor": 0.9999999999999983
+        },
+        "layer5": {
+          "cx": 1220.479266288061,
+          "cy": 357.909145906803,
+          "width": 32.77256413784248,
+          "height": 18.442051926532553,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999969,
+          "clipHeightFactor": 0.9999999999999983
+        },
+        "layer4": {
+          "cx": 1220.479266288061,
+          "cy": 357.909145906803,
+          "width": 32.77256413784257,
+          "height": 18.44205192653265,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999944,
+          "clipHeightFactor": 0.9999999999999964
+        },
+        "__sozi_auto__": {
+          "cx": 1220.479266288061,
+          "cy": 357.909145906803,
+          "width": 32.77256413784248,
+          "height": 18.442051926532553,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999969,
+          "clipHeightFactor": 0.9999999999999983
+        }
+      },
+      "cameraOffsets": {
+        "layer1": {
+          "deltaX": 0.27272331931089866,
+          "deltaY": -0.562503263118856,
+          "widthFactor": 6.004145294404968,
+          "heightFactor": 6.909391227343076,
+          "deltaAngle": 0
+        },
+        "layer3": {
+          "deltaX": -517.1633118369391,
+          "deltaY": -264.9452242103845,
+          "widthFactor": 0.03149435821935639,
+          "heightFactor": 0.011815176248717866,
+          "deltaAngle": 0
+        },
+        "layer9": {
+          "deltaX": 3.1288024208733987,
+          "deltaY": -4.798861905696981,
+          "widthFactor": 0.022508219454282455,
+          "heightFactor": 0.012666013870741162,
+          "deltaAngle": 0
+        },
+        "layer8": {
+          "deltaX": 3.1290465614983987,
+          "deltaY": -4.798861905696981,
+          "widthFactor": 0.0443025675194496,
+          "heightFactor": 0.02490612973448703,
+          "deltaAngle": 0
+        },
+        "layer6": {
+          "deltaX": 1.4834166786858987,
+          "deltaY": -8.290500089290731,
+          "widthFactor": 0.2307354831660561,
+          "heightFactor": 0.12971524313453192,
+          "deltaAngle": 0
+        },
+        "layer4": {
+          "deltaX": -7.080059883814101,
+          "deltaY": 1.708950594303019,
+          "widthFactor": 4.897551637932518,
+          "heightFactor": 4.53103207556017,
+          "deltaAngle": -41.638769938748595
+        }
+      }
+    },
+    {
+      "frameId": "frame5167",
+      "title": "New frame",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "layer1": {
+          "link": false,
+          "referenceElementId": "rect8062",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer3": {
+          "link": false,
+          "referenceElementId": "path6927",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer9": {
+          "link": false,
+          "referenceElementId": "path6929",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer8": {
+          "link": false,
+          "referenceElementId": "path6675-0",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer7": {
+          "link": false,
+          "referenceElementId": "path6677",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer6": {
+          "link": false,
+          "referenceElementId": "path8079",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer5": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer4": {
+          "link": false,
+          "referenceElementId": "path6653-4",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "layer1": {
+          "cx": 1220.5521346567803,
+          "cy": 361.3158241798394,
+          "width": 128.47268451696957,
+          "height": 72.29522563561494,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.999999999999994,
+          "clipHeightFactor": 0.9999999999999969
+        },
+        "layer3": {
+          "cx": 1220.5522567270928,
+          "cy": 361.3158241798394,
+          "width": 128.47268361876198,
+          "height": 72.29522513016803,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999938,
+          "clipHeightFactor": 0.9999999999999967
+        },
+        "layer9": {
+          "cx": 1220.5522567270928,
+          "cy": 361.3158241798394,
+          "width": 128.4726836187618,
+          "height": 72.29522513016803,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999938,
+          "clipHeightFactor": 0.9999999999999967
+        },
+        "layer8": {
+          "cx": 1220.5522567270928,
+          "cy": 361.3158241798394,
+          "width": 128.47268361876192,
+          "height": 72.29522513016809,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999938,
+          "clipHeightFactor": 0.9999999999999967
+        },
+        "layer7": {
+          "cx": 1220.5522567270928,
+          "cy": 361.3158241798394,
+          "width": 128.4726836187618,
+          "height": 72.29522513016803,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999938,
+          "clipHeightFactor": 0.9999999999999967
+        },
+        "layer6": {
+          "cx": 1220.5522567270928,
+          "cy": 361.3158241798394,
+          "width": 128.4726836187619,
+          "height": 72.29522513016808,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999938,
+          "clipHeightFactor": 0.9999999999999967
+        },
+        "layer5": {
+          "cx": 1220.5522567270928,
+          "cy": 361.3158241798394,
+          "width": 128.47268361876183,
+          "height": 72.29522513016805,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999938,
+          "clipHeightFactor": 0.9999999999999967
+        },
+        "layer4": {
+          "cx": 1220.5522567270928,
+          "cy": 361.3158241798394,
+          "width": 128.4726836187621,
+          "height": 72.29522513016822,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999925,
+          "clipHeightFactor": 0.9999999999999956
+        },
+        "__sozi_auto__": {
+          "cx": 1220.5522567270928,
+          "cy": 361.3158241798394,
+          "width": 128.47268361876183,
+          "height": 72.29522513016805,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999938,
+          "clipHeightFactor": 0.9999999999999967
+        }
+      },
+      "cameraOffsets": {
+        "layer1": {
+          "deltaX": 0.34571375834275386,
+          "deltaY": 2.844175009917535,
+          "widthFactor": 23.537024920136403,
+          "heightFactor": 72.29522563561494,
+          "deltaAngle": 0
+        },
+        "layer3": {
+          "deltaX": -517.0903213979072,
+          "deltaY": -261.5385459373481,
+          "widthFactor": 0.12346195135275417,
+          "heightFactor": 0.04631701668862367,
+          "deltaAngle": 0
+        },
+        "layer9": {
+          "deltaX": 3.201792859905254,
+          "deltaY": -1.3921836326605899,
+          "widthFactor": 0.08823512693755488,
+          "heightFactor": 0.04965241004281407,
+          "deltaAngle": 0
+        },
+        "layer8": {
+          "deltaX": 3.202037000530254,
+          "deltaY": -1.3921836326605899,
+          "widthFactor": 0.17367178584152695,
+          "heightFactor": 0.09763524489839442,
+          "deltaAngle": 0
+        },
+        "layer7": {
+          "deltaX": -95.13707432759475,
+          "deltaY": -64.56088480453559,
+          "widthFactor": 2.0830220022782804,
+          "heightFactor": 1.1715265436437818,
+          "deltaAngle": -90.56505535463214
+        },
+        "layer6": {
+          "deltaX": 1.5564071177177539,
+          "deltaY": -4.88382181625434,
+          "widthFactor": 0.9045128908355957,
+          "heightFactor": 0.5085005043139291,
+          "deltaAngle": 0
+        },
+        "layer4": {
+          "deltaX": 0.7766219614677539,
+          "deltaY": -3.41165384750434,
+          "widthFactor": 20.56896602593677,
+          "heightFactor": 12.9470805164214,
+          "deltaAngle": -41.638769938748595
+        }
+      }
+    },
+    {
+      "frameId": "frame2944",
+      "title": "New frame",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "layer1": {
+          "link": false,
+          "referenceElementId": "path8079",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer3": {
+          "link": false,
+          "referenceElementId": "path6933",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer9": {
+          "link": false,
+          "referenceElementId": "path6929",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer8": {
+          "link": false,
+          "referenceElementId": "path6675-0",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer7": {
+          "link": false,
+          "referenceElementId": "path6657",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer6": {
+          "link": false,
+          "referenceElementId": "path8079",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer5": {
+          "link": false,
+          "referenceElementId": "path8079",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer4": {
+          "link": false,
+          "referenceElementId": "path6653-4",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "path8079",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "layer1": {
+          "cx": 1216.8857993213128,
+          "cy": 357.37727273165274,
+          "width": 219.73188723599375,
+          "height": 123.64936894400617,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999931,
+          "clipHeightFactor": 0.9999999999999962
+        },
+        "layer3": {
+          "cx": 1216.8857993213128,
+          "cy": 357.37727273165274,
+          "width": 219.73188723599372,
+          "height": 123.64936894400628,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999931,
+          "clipHeightFactor": 0.9999999999999962
+        },
+        "layer9": {
+          "cx": 1216.8857993213128,
+          "cy": 357.37727273165274,
+          "width": 219.7318872359936,
+          "height": 123.64936894400614,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999931,
+          "clipHeightFactor": 0.9999999999999962
+        },
+        "layer8": {
+          "cx": 1216.8857993213128,
+          "cy": 357.37727273165274,
+          "width": 219.73188723599372,
+          "height": 123.64936894400621,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999931,
+          "clipHeightFactor": 0.9999999999999962
+        },
+        "layer7": {
+          "cx": 1216.8857993213128,
+          "cy": 357.37727273165274,
+          "width": 219.73188723599375,
+          "height": 123.64936894400623,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999931,
+          "clipHeightFactor": 0.9999999999999962
+        },
+        "layer6": {
+          "cx": 1216.8857993213128,
+          "cy": 357.37727273165274,
+          "width": 219.73188723599375,
+          "height": 123.64936894400617,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999931,
+          "clipHeightFactor": 0.9999999999999962
+        },
+        "layer5": {
+          "cx": 1216.8857993213128,
+          "cy": 357.37727273165274,
+          "width": 219.73188723599375,
+          "height": 123.64936894400617,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999931,
+          "clipHeightFactor": 0.9999999999999962
+        },
+        "layer4": {
+          "cx": 1216.8857993213128,
+          "cy": 357.37727273165274,
+          "width": 219.73188723599375,
+          "height": 123.64936894400628,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999931,
+          "clipHeightFactor": 0.9999999999999962
+        },
+        "__sozi_auto__": {
+          "cx": 1216.8857993213128,
+          "cy": 357.37727273165274,
+          "width": 219.73188723599375,
+          "height": 123.64936894400617,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999931,
+          "clipHeightFactor": 0.9999999999999962
+        }
+      },
+      "cameraOffsets": {
+        "layer1": {
+          "deltaX": -2.1100502880622116,
+          "deltaY": -8.822373264441012,
+          "widthFactor": 1.5470239971196862,
+          "heightFactor": 0.8697084261501081,
+          "deltaAngle": 0
+        },
+        "layer3": {
+          "deltaX": 519.828243168969,
+          "deltaY": -265.4770363503785,
+          "widthFactor": 0.21116183462845725,
+          "heightFactor": 0.0792178112207821,
+          "deltaAngle": 0
+        },
+        "layer9": {
+          "deltaX": -0.4646645458747116,
+          "deltaY": -5.330735080847262,
+          "widthFactor": 0.15091201036968926,
+          "heightFactor": 0.08492247112155474,
+          "deltaAngle": 0
+        },
+        "layer8": {
+          "deltaX": -0.4644204052497116,
+          "deltaY": -5.330735080847262,
+          "widthFactor": 0.2970376907191114,
+          "heightFactor": 0.1669894020890492,
+          "deltaAngle": 0
+        },
+        "layer7": {
+          "deltaX": 88.59917822756279,
+          "deltaY": 38.92823708712149,
+          "widthFactor": 4.701806826631855,
+          "heightFactor": 1.1785565282356623,
+          "deltaAngle": -19.510219941803456
+        },
+        "layer6": {
+          "deltaX": -2.1100502880622116,
+          "deltaY": -8.822373264441012,
+          "widthFactor": 1.5470239971196862,
+          "heightFactor": 0.8697084261501081,
+          "deltaAngle": 0
+        },
+        "layer5": {
+          "deltaX": -2.1100502880622116,
+          "deltaY": -8.822373264441012,
+          "widthFactor": 1.5470239971196862,
+          "heightFactor": 0.8697084261501081,
+          "deltaAngle": 0
+        },
+        "layer4": {
+          "deltaX": -2.8898354443122116,
+          "deltaY": -7.350205295691012,
+          "widthFactor": 35.17991214991695,
+          "heightFactor": 22.143901379936406,
+          "deltaAngle": -41.638769938748595
+        },
+        "__sozi_auto__": {
+          "deltaX": -2.1100502880622116,
+          "deltaY": -8.822373264441012,
+          "widthFactor": 1.5470239971196862,
+          "heightFactor": 0.8697084261501081,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "frame2503",
+      "title": "New frame",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "layer1": {
+          "link": false,
+          "referenceElementId": "path6974",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer3": {
+          "link": false,
+          "referenceElementId": "path6933",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer9": {
+          "link": false,
+          "referenceElementId": "rect10356",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer8": {
+          "link": false,
+          "referenceElementId": "rect6667",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer7": {
+          "link": false,
+          "referenceElementId": "path6653",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer6": {
+          "link": false,
+          "referenceElementId": "path8079",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer5": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer4": {
+          "link": false,
+          "referenceElementId": "path6653-4",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "layer1": {
+          "cx": 1215.3179854697369,
+          "cy": 357.7583032409985,
+          "width": 528.8109860773852,
+          "height": 297.57694953441165,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999905,
+          "clipHeightFactor": 0.9999999999999947
+        },
+        "layer3": {
+          "cx": 1215.3179854697369,
+          "cy": 357.7583032409985,
+          "width": 528.8109860773853,
+          "height": 297.57694953441165,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.99999999999999,
+          "clipHeightFactor": 0.9999999999999943
+        },
+        "layer9": {
+          "cx": 1215.3179854697369,
+          "cy": 357.7583032409985,
+          "width": 528.8109860773847,
+          "height": 297.57694953441114,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.99999999999999,
+          "clipHeightFactor": 0.9999999999999943
+        },
+        "layer8": {
+          "cx": 1215.3179854697369,
+          "cy": 357.7583032409985,
+          "width": 528.810986077385,
+          "height": 297.57694953441154,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.99999999999999,
+          "clipHeightFactor": 0.9999999999999943
+        },
+        "layer7": {
+          "cx": 1216.6061973724832,
+          "cy": 352.60545563001307,
+          "width": 528.8109860773855,
+          "height": 297.57694953441177,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.99999999999999,
+          "clipHeightFactor": 0.9999999999999943
+        },
+        "layer6": {
+          "cx": 1214.424124149463,
+          "cy": 360.18575015977916,
+          "width": 528.8109860773851,
+          "height": 297.5769495344116,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 61.83417133182574,
+          "clipYOffset": -1.9323178541195551,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "layer5": {
+          "cx": 1215.3179854697369,
+          "cy": 357.7583032409985,
+          "width": 528.8109860773848,
+          "height": 297.5769495344114,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.99999999999999,
+          "clipHeightFactor": 0.9999999999999943
+        },
+        "layer4": {
+          "cx": 1215.3179854697369,
+          "cy": 357.7583032409984,
+          "width": 528.810986077385,
+          "height": 297.57694953441205,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999905,
+          "clipHeightFactor": 0.9999999999999942
+        },
+        "__sozi_auto__": {
+          "cx": 1215.3179854697369,
+          "cy": 357.7583032409985,
+          "width": 528.8109860773848,
+          "height": 297.5769495344114,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.99999999999999,
+          "clipHeightFactor": 0.9999999999999943
+        }
+      },
+      "cameraOffsets": {
+        "layer1": {
+          "deltaX": -337.54907995995063,
+          "deltaY": -177.444211407439,
+          "widthFactor": 2.0389813982694087,
+          "heightFactor": 0.5772706075276953,
+          "deltaAngle": 0
+        },
+        "layer3": {
+          "deltaX": 518.2604293173931,
+          "deltaY": -265.09600584103276,
+          "widthFactor": 0.5081861326383436,
+          "heightFactor": 0.19064710813484428,
+          "deltaAngle": 0
+        },
+        "layer9": {
+          "deltaX": 446.0886763877056,
+          "deltaY": -300.00420896603276,
+          "widthFactor": 1.1640134981227026,
+          "heightFactor": 1.5833835188440353,
+          "deltaAngle": -58.72323226928711
+        },
+        "layer8": {
+          "deltaX": -180.76050574120063,
+          "deltaY": 138.8232446472485,
+          "widthFactor": 3.364557299072974,
+          "heightFactor": 7.4310648504981565,
+          "deltaAngle": 0
+        },
+        "layer7": {
+          "deltaX": -84.56445692439183,
+          "deltaY": 40.33452057141932,
+          "widthFactor": 6.2451972105651805,
+          "heightFactor": 3.549093934997375,
+          "deltaAngle": -19.510219941803456
+        },
+        "layer6": {
+          "deltaX": -4.5717254599119315,
+          "deltaY": -6.013895836314589,
+          "widthFactor": 3.723097706449912,
+          "heightFactor": 2.0930570260760613,
+          "deltaAngle": 0
+        },
+        "layer4": {
+          "deltaX": -4.457649295888132,
+          "deltaY": -6.969174786345377,
+          "widthFactor": 84.66465321955312,
+          "heightFactor": 53.291938969913765,
+          "deltaAngle": -41.638769938748595
+        }
+      }
+    },
+    {
+      "frameId": "frame3768",
+      "title": "New frame",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "layer1": {
+          "link": false,
+          "referenceElementId": "path6968",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer3": {
+          "link": false,
+          "referenceElementId": "circle10825",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer9": {
+          "link": false,
+          "referenceElementId": "rect10356",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer8": {
+          "link": false,
+          "referenceElementId": "path6675-0",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer7": {
+          "link": false,
+          "referenceElementId": "path6653",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer6": {
+          "link": false,
+          "referenceElementId": "path8079",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer5": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer4": {
+          "link": false,
+          "referenceElementId": "path6653-4",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "layer1": {
+          "cx": 1205.6398103279707,
+          "cy": 349.2439421498121,
+          "width": 997.1519823479271,
+          "height": 561.125719664729,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999898,
+          "clipHeightFactor": 0.9999999999999939
+        },
+        "layer3": {
+          "cx": 1205.6398103279707,
+          "cy": 349.2439421498121,
+          "width": 997.1519823479265,
+          "height": 561.1257196647284,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999893,
+          "clipHeightFactor": 0.9999999999999936
+        },
+        "layer9": {
+          "cx": 1205.6398103279707,
+          "cy": 349.2439421498121,
+          "width": 997.1519823479266,
+          "height": 561.1257196647283,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999893,
+          "clipHeightFactor": 0.9999999999999936
+        },
+        "layer8": {
+          "cx": 1205.6398103279707,
+          "cy": 349.2439421498121,
+          "width": 997.1519823479268,
+          "height": 561.1257196647285,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999893,
+          "clipHeightFactor": 0.9999999999999936
+        },
+        "layer7": {
+          "cx": 1205.6398103279707,
+          "cy": 349.2439421498121,
+          "width": 997.1519823479275,
+          "height": 561.1257196647292,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999893,
+          "clipHeightFactor": 0.9999999999999936
+        },
+        "layer6": {
+          "cx": 1289.7679345889578,
+          "cy": 363.26529619331023,
+          "width": 997.1519823479268,
+          "height": 561.1257196647288,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999896,
+          "clipHeightFactor": 0.9999999999999934
+        },
+        "layer5": {
+          "cx": 1205.6398103279707,
+          "cy": 349.2439421498121,
+          "width": 997.1519823479266,
+          "height": 561.1257196647285,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999893,
+          "clipHeightFactor": 0.9999999999999936
+        },
+        "layer4": {
+          "cx": 1205.6398103279707,
+          "cy": 349.24394214981197,
+          "width": 997.1519823479279,
+          "height": 561.125719664729,
+          "opacity": 0,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.99999999999999,
+          "clipHeightFactor": 0.9999999999999936
+        },
+        "__sozi_auto__": {
+          "cx": 1205.6398103279707,
+          "cy": 349.2439421498121,
+          "width": 997.1519823479266,
+          "height": 561.1257196647285,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999893,
+          "clipHeightFactor": 0.9999999999999936
+        }
+      },
+      "cameraOffsets": {
+        "layer1": {
+          "deltaX": 291.2117707771895,
+          "deltaY": -190.50636302596916,
+          "widthFactor": 3.2788662989900117,
+          "heightFactor": 1.0515916286486882,
+          "deltaAngle": 0
+        },
+        "layer3": {
+          "deltaX": -11.710653539216764,
+          "deltaY": -13.464065662687915,
+          "widthFactor": 0.6848446631627367,
+          "heightFactor": 0.3853815278698957,
+          "deltaAngle": 0
+        },
+        "layer9": {
+          "deltaX": 436.4105012459395,
+          "deltaY": -308.51857005721916,
+          "widthFactor": 2.194921054387747,
+          "heightFactor": 2.985705774277008,
+          "deltaAngle": -58.72323226928711
+        },
+        "layer8": {
+          "deltaX": -11.710409398591764,
+          "deltaY": -13.464065662687915,
+          "widthFactor": 1.3479687716626225,
+          "heightFactor": 0.7578045017442248,
+          "deltaAngle": 0
+        },
+        "layer7": {
+          "deltaX": -95.53084396890426,
+          "deltaY": 36.973007091218335,
+          "widthFactor": 11.776250763741709,
+          "heightFactor": 6.692345934552408,
+          "deltaAngle": -19.510219941803456
+        },
+        "layer6": {
+          "deltaX": 70.77208497958281,
+          "deltaY": -2.9343498027835153,
+          "widthFactor": 7.02045599695289,
+          "heightFactor": 3.9467711860539527,
+          "deltaAngle": 0
+        },
+        "layer4": {
+          "deltaX": -14.135824437654264,
+          "deltaY": -15.483535877531779,
+          "widthFactor": 159.64783072854488,
+          "heightFactor": 100.48989901136012,
+          "deltaAngle": -41.638769938748595
+        }
+      }
+    },
+    {
+      "frameId": "frame3166",
+      "title": "New frame",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "layer1": {
+          "link": false,
+          "referenceElementId": "path6974",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer3": {
+          "link": false,
+          "referenceElementId": "path6927",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer9": {
+          "link": false,
+          "referenceElementId": "rect10351",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer8": {
+          "link": false,
+          "referenceElementId": "rect6687",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer7": {
+          "link": false,
+          "referenceElementId": "path6677",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer6": {
+          "link": false,
+          "referenceElementId": "path8079",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer5": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer4": {
+          "link": false,
+          "referenceElementId": "path6653-4",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "layer1": {
+          "cx": 1669.3771986989407,
+          "cy": 664.0677604044048,
+          "width": 1154.3280635655212,
+          "height": 649.5731612268828,
+          "opacity": 0,
+          "angle": -53.489885807226784,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999882,
+          "clipHeightFactor": 0.9999999999999929
+        },
+        "layer3": {
+          "cx": 1669.3771986989407,
+          "cy": 664.0677604044048,
+          "width": 1154.3280635655217,
+          "height": 649.5731612268825,
+          "opacity": 0,
+          "angle": -53.489885807226784,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999878,
+          "clipHeightFactor": 0.9999999999999926
+        },
+        "layer9": {
+          "cx": 1669.3771986989407,
+          "cy": 664.0677604044048,
+          "width": 1154.3280635655194,
+          "height": 649.5731612268817,
+          "opacity": 1,
+          "angle": -53.489885807226784,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999878,
+          "clipHeightFactor": 0.9999999999999926
+        },
+        "layer8": {
+          "cx": 1669.3771986989407,
+          "cy": 664.0677604044048,
+          "width": 1154.3280635655208,
+          "height": 649.573161226883,
+          "opacity": 1,
+          "angle": -53.489885807226784,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999878,
+          "clipHeightFactor": 0.9999999999999926
+        },
+        "layer7": {
+          "cx": 1669.3771986989407,
+          "cy": 664.0677604044048,
+          "width": 1154.3280635655226,
+          "height": 649.5731612268835,
+          "opacity": 1,
+          "angle": -53.489885807226784,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999878,
+          "clipHeightFactor": 0.9999999999999926
+        },
+        "layer6": {
+          "cx": 1753.5053229599278,
+          "cy": 678.0891144479028,
+          "width": 1154.328063565521,
+          "height": 649.5731612268826,
+          "opacity": 0,
+          "angle": -53.489885807226784,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.999999999999988,
+          "clipHeightFactor": 0.9999999999999925
+        },
+        "layer5": {
+          "cx": 1669.3771986989407,
+          "cy": 664.0677604044048,
+          "width": 1154.3280635655203,
+          "height": 649.5731612268823,
+          "opacity": 0,
+          "angle": -53.489885807226784,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999878,
+          "clipHeightFactor": 0.9999999999999926
+        },
+        "layer4": {
+          "cx": 1669.3771986989407,
+          "cy": 664.0677604044047,
+          "width": 1154.3280635655208,
+          "height": 649.5731612268835,
+          "opacity": 0,
+          "angle": -53.489885807226784,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999885,
+          "clipHeightFactor": 0.9999999999999926
+        },
+        "__sozi_auto__": {
+          "cx": 1669.3771986989407,
+          "cy": 664.0677604044048,
+          "width": 1154.3280635655203,
+          "height": 649.5731612268823,
+          "opacity": 1,
+          "angle": -53.489885807226784,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999878,
+          "clipHeightFactor": 0.9999999999999926
+        }
+      },
+      "cameraOffsets": {
+        "layer1": {
+          "deltaX": 116.51013326925317,
+          "deltaY": 128.8652457559673,
+          "widthFactor": 4.450840680465772,
+          "heightFactor": 1.2601093397920116,
+          "deltaAngle": -53.489885807226784
+        },
+        "layer3": {
+          "deltaX": -68.26537942605933,
+          "deltaY": 41.213390287217294,
+          "widthFactor": 1.1093065951043353,
+          "heightFactor": 0.41615875591862367,
+          "deltaAngle": -53.489885807226784
+        },
+        "layer9": {
+          "deltaX": -14.664793488559326,
+          "deltaY": -14.706775728407706,
+          "widthFactor": 2.8771970978430925,
+          "heightFactor": 3.9137918430348573,
+          "deltaAngle": 1.037721156884544
+        },
+        "layer8": {
+          "deltaX": 227.26550436300317,
+          "deltaY": 207.46445840245167,
+          "widthFactor": 10.732063312806723,
+          "heightFactor": 16.221078726341236,
+          "deltaAngle": -53.489885807226784
+        },
+        "layer7": {
+          "deltaX": 353.6878676442532,
+          "deltaY": 238.1910514200298,
+          "widthFactor": 18.715968924487537,
+          "heightFactor": 10.52617512492318,
+          "deltaAngle": -144.05494116185892
+        },
+        "layer6": {
+          "deltaX": 534.5094733505528,
+          "deltaY": 311.8894684518091,
+          "widthFactor": 8.127055373472604,
+          "heightFactor": 4.568880994255713,
+          "deltaAngle": -53.489885807226784
+        },
+        "layer4": {
+          "deltaX": 449.6015639333157,
+          "deltaY": 299.34028237706093,
+          "widthFactor": 184.8123200471319,
+          "heightFactor": 116.32961934302605,
+          "deltaAngle": -95.12865574597538
+        }
+      }
+    },
+    {
+      "frameId": "frame1177",
+      "title": "New frame",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "layer1": {
+          "link": false,
+          "referenceElementId": "path6968",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer3": {
+          "link": false,
+          "referenceElementId": "path6933",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer9": {
+          "link": false,
+          "referenceElementId": "rect10356",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer8": {
+          "link": false,
+          "referenceElementId": "rect6699",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer7": {
+          "link": false,
+          "referenceElementId": "path6673",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer6": {
+          "link": false,
+          "referenceElementId": "path8079",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer5": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer4": {
+          "link": false,
+          "referenceElementId": "image9310",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "layer1": {
+          "cx": 800.9282357497038,
+          "cy": 661.3706453862335,
+          "width": 1154.3280635655212,
+          "height": 649.5731612268828,
+          "opacity": 0,
+          "angle": 59.23476764343923,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999882,
+          "clipHeightFactor": 0.9999999999999929
+        },
+        "layer3": {
+          "cx": 800.9282357497038,
+          "cy": 661.3706453862335,
+          "width": 1154.3280635655217,
+          "height": 649.5731612268829,
+          "opacity": 0,
+          "angle": 59.23476764343923,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999878,
+          "clipHeightFactor": 0.9999999999999926
+        },
+        "layer9": {
+          "cx": 800.9282357497038,
+          "cy": 661.3706453862335,
+          "width": 1154.3280635655196,
+          "height": 649.573161226882,
+          "opacity": 1,
+          "angle": 59.23476764343923,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999878,
+          "clipHeightFactor": 0.9999999999999926
+        },
+        "layer8": {
+          "cx": 800.9282357497038,
+          "cy": 661.3706453862335,
+          "width": 1154.3280635655212,
+          "height": 649.5731612268826,
+          "opacity": 1,
+          "angle": 59.23476764343923,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999878,
+          "clipHeightFactor": 0.9999999999999926
+        },
+        "layer7": {
+          "cx": 800.9282357497038,
+          "cy": 661.3706453862335,
+          "width": 1154.3280635655199,
+          "height": 649.573161226883,
+          "opacity": 1,
+          "angle": 59.23476764343923,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999878,
+          "clipHeightFactor": 0.9999999999999926
+        },
+        "layer6": {
+          "cx": 885.056360010691,
+          "cy": 675.3919994297315,
+          "width": 1154.328063565521,
+          "height": 649.5731612268826,
+          "opacity": 0,
+          "angle": 59.23476764343923,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.999999999999988,
+          "clipHeightFactor": 0.9999999999999925
+        },
+        "layer5": {
+          "cx": 800.9282357497038,
+          "cy": 661.3706453862335,
+          "width": 1154.3280635655203,
+          "height": 649.5731612268823,
+          "opacity": 0,
+          "angle": 59.23476764343923,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999878,
+          "clipHeightFactor": 0.9999999999999926
+        },
+        "layer4": {
+          "cx": 800.9282357497038,
+          "cy": 661.3706453862334,
+          "width": 1154.3280635655206,
+          "height": 649.5731612268826,
+          "opacity": 0,
+          "angle": 59.23476764343923,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999885,
+          "clipHeightFactor": 0.9999999999999926
+        },
+        "__sozi_auto__": {
+          "cx": 800.9282357497038,
+          "cy": 661.3706453862335,
+          "width": 1154.3280635655203,
+          "height": 649.5731612268823,
+          "opacity": 1,
+          "angle": 59.23476764343923,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999878,
+          "clipHeightFactor": 0.9999999999999926
+        }
+      },
+      "cameraOffsets": {
+        "layer1": {
+          "deltaX": -113.4998038010774,
+          "deltaY": 121.62034021045224,
+          "widthFactor": 3.7956975993683195,
+          "heightFactor": 1.2173487591144392,
+          "deltaAngle": 59.23476764343923
+        },
+        "layer3": {
+          "deltaX": 103.8706795973601,
+          "deltaY": 38.51633630420224,
+          "widthFactor": 1.1093065951043353,
+          "heightFactor": 0.41615872769605594,
+          "deltaAngle": 59.23476764343923
+        },
+        "layer9": {
+          "deltaX": 31.698926667672595,
+          "deltaY": 3.608133179202241,
+          "widthFactor": 2.5408954855856183,
+          "heightFactor": 3.4563276469474267,
+          "deltaAngle": 0.5115353741521176
+        },
+        "layer8": {
+          "deltaX": -175.2322256760774,
+          "deltaY": 222.377359253421,
+          "widthFactor": 12.171607913154292,
+          "heightFactor": 15.72164815531656,
+          "deltaAngle": 59.23476764343923
+        },
+        "layer7": {
+          "deltaX": -317.98253085185866,
+          "deltaY": 237.45481286670224,
+          "widthFactor": 18.687987147214994,
+          "heightFactor": 10.533085810703437,
+          "deltaAngle": -31.33028771119291
+        },
+        "layer6": {
+          "deltaX": -333.93948959868396,
+          "deltaY": 309.1923534336378,
+          "widthFactor": 8.127055373472604,
+          "heightFactor": 4.568880994255713,
+          "deltaAngle": 59.23476764343923
+        },
+        "layer4": {
+          "deltaX": -418.74669100810866,
+          "deltaY": 310.0115755620146,
+          "widthFactor": 118.27213821292193,
+          "heightFactor": 304.1684178719526,
+          "deltaAngle": 64.71096118548289
+        }
+      }
+    },
+    {
+      "frameId": "frame3066",
+      "title": "New frame",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "layer1": {
+          "link": false,
+          "referenceElementId": "path6942",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer3": {
+          "link": false,
+          "referenceElementId": "path6931",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer9": {
+          "link": false,
+          "referenceElementId": "rect10354",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer8": {
+          "link": false,
+          "referenceElementId": "rect6711",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer7": {
+          "link": false,
+          "referenceElementId": "path6675",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer6": {
+          "link": false,
+          "referenceElementId": "path8079",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer5": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer4": {
+          "link": false,
+          "referenceElementId": "image9310",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "layer1": {
+          "cx": 1199.6005162304193,
+          "cy": -104.89487577419902,
+          "width": 1154.3280635655212,
+          "height": 649.5731612268829,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999882,
+          "clipHeightFactor": 0.9999999999999929
+        },
+        "layer3": {
+          "cx": 1199.6003941601068,
+          "cy": -104.89487577419902,
+          "width": 1154.3280635655203,
+          "height": 649.5731612268829,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999878,
+          "clipHeightFactor": 0.9999999999999926
+        },
+        "layer9": {
+          "cx": 1199.6003941601068,
+          "cy": -104.89487577419902,
+          "width": 1154.32806356552,
+          "height": 649.5731612268822,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999878,
+          "clipHeightFactor": 0.9999999999999926
+        },
+        "layer8": {
+          "cx": 1199.6003941601068,
+          "cy": -104.89487577419902,
+          "width": 1154.3280635655215,
+          "height": 649.5731612268822,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999878,
+          "clipHeightFactor": 0.9999999999999926
+        },
+        "layer7": {
+          "cx": 1199.6003941601068,
+          "cy": -104.89487577419902,
+          "width": 1154.3280635655226,
+          "height": 649.5731612268835,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999878,
+          "clipHeightFactor": 0.9999999999999926
+        },
+        "layer6": {
+          "cx": 1283.7285184210941,
+          "cy": -90.87352173070099,
+          "width": 1154.328063565521,
+          "height": 649.5731612268826,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.999999999999988,
+          "clipHeightFactor": 0.9999999999999925
+        },
+        "layer5": {
+          "cx": 1199.6003941601068,
+          "cy": -104.89487577419902,
+          "width": 1154.3280635655203,
+          "height": 649.5731612268823,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999878,
+          "clipHeightFactor": 0.9999999999999926
+        },
+        "layer4": {
+          "cx": 1199.6003941601068,
+          "cy": -104.89487577419914,
+          "width": 1154.3280635655206,
+          "height": 649.5731612268826,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999885,
+          "clipHeightFactor": 0.9999999999999926
+        },
+        "__sozi_auto__": {
+          "cx": 1199.6003941601068,
+          "cy": -104.89487577419902,
+          "width": 1154.3280635655203,
+          "height": 649.5731612268823,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999878,
+          "clipHeightFactor": 0.9999999999999926
+        }
+      },
+      "cameraOffsets": {
+        "layer1": {
+          "deltaX": -18.340890019580684,
+          "deltaY": -156.5929081533494,
+          "widthFactor": 1.9627551763980264,
+          "heightFactor": 4.689628951393369,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer3": {
+          "deltaX": -17.749825566455684,
+          "deltaY": 52.68984102267598,
+          "widthFactor": 0.6404583407276065,
+          "heightFactor": 0.6242381762117938,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer9": {
+          "deltaX": -6.762765019580684,
+          "deltaY": 27.67691682834004,
+          "widthFactor": 1.9609006931463064,
+          "heightFactor": 3.6918054877699014,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer8": {
+          "deltaX": -12.604561894580684,
+          "deltaY": -237.67186857205058,
+          "widthFactor": 10.020947814536388,
+          "heightFactor": 16.221081326627314,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer7": {
+          "deltaX": -19.402535527393184,
+          "deltaY": -359.26213956814433,
+          "widthFactor": 18.690131009837987,
+          "heightFactor": 10.52850293590576,
+          "deltaAngle": -90.83835744102188
+        },
+        "layer6": {
+          "deltaX": 64.73266881171912,
+          "deltaY": -457.07316772679474,
+          "widthFactor": 8.127055373472604,
+          "heightFactor": 4.568880994255713,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer4": {
+          "deltaX": -20.074532597705684,
+          "deltaY": -456.2539455984179,
+          "widthFactor": 118.27213821292193,
+          "heightFactor": 304.1684178719526,
+          "deltaAngle": 5.202891455653912
+        }
+      }
+    },
+    {
+      "frameId": "frame9591",
+      "title": "New frame",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "layer1": {
+          "link": false,
+          "referenceElementId": "path6968",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer3": {
+          "link": false,
+          "referenceElementId": "circle10825",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer9": {
+          "link": false,
+          "referenceElementId": "path6929",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer8": {
+          "link": false,
+          "referenceElementId": "path6675-0",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer7": {
+          "link": false,
+          "referenceElementId": "path6653",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer6": {
+          "link": false,
+          "referenceElementId": "path8079",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer5": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer4": {
+          "link": false,
+          "referenceElementId": "path6653-4",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "layer1": {
+          "cx": 1064.2404807300195,
+          "cy": 375.20517705470184,
+          "width": 4314.882686115433,
+          "height": 2425.1530425612277,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878083,
+          "clipHeightFactor": 0.9999999999999839
+        },
+        "layer3": {
+          "cx": 1064.2407250426006,
+          "cy": 375.20517700777185,
+          "width": 4314.882655948219,
+          "height": 2425.1530256059327,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878114,
+          "clipHeightFactor": 0.9999999999999858
+        },
+        "layer9": {
+          "cx": 1064.2407250426006,
+          "cy": 375.20517700777185,
+          "width": 4314.882655948219,
+          "height": 2425.1530256059327,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878114,
+          "clipHeightFactor": 0.9999999999999858
+        },
+        "layer8": {
+          "cx": 1064.2407250426038,
+          "cy": 375.20517700776566,
+          "width": 4314.882655948229,
+          "height": 2425.1530256059377,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878092,
+          "clipHeightFactor": 0.9999999999999858
+        },
+        "layer7": {
+          "cx": 1064.2407250426038,
+          "cy": 375.20517700776566,
+          "width": 4314.882655948228,
+          "height": 2425.153025605938,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878105,
+          "clipHeightFactor": 0.999999999999986
+        },
+        "layer6": {
+          "cx": 1148.3688493035897,
+          "cy": 389.2265310512636,
+          "width": 4314.882655948227,
+          "height": 2425.1530256059377,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878098,
+          "clipHeightFactor": 0.9999999999999858
+        },
+        "layer5": {
+          "cx": 1064.2407250426006,
+          "cy": 375.20517700777185,
+          "width": 4314.882655948219,
+          "height": 2425.153025605933,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878114,
+          "clipHeightFactor": 0.9999999999999858
+        },
+        "layer4": {
+          "cx": 1064.240725042616,
+          "cy": 375.2051770077848,
+          "width": 4314.882655948239,
+          "height": 2425.153025605944,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878081,
+          "clipHeightFactor": 0.9999999999999846
+        },
+        "__sozi_auto__": {
+          "cx": 1064.2407250426006,
+          "cy": 375.20517700777185,
+          "width": 4314.882655948219,
+          "height": 2425.153025605933,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878114,
+          "clipHeightFactor": 0.9999999999999858
+        }
+      },
+      "cameraOffsets": {
+        "layer1": {
+          "deltaX": 149.81244117923825,
+          "deltaY": -164.54512812107941,
+          "widthFactor": 14.188332043713357,
+          "heightFactor": 4.544918452986012,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer3": {
+          "deltaX": -153.10973882458688,
+          "deltaY": 12.497169195271852,
+          "widthFactor": 2.963464357902189,
+          "heightFactor": 1.66559675590123,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer9": {
+          "deltaX": -153.10973882458688,
+          "deltaY": 12.497169195271852,
+          "widthFactor": 2.963464357902189,
+          "heightFactor": 1.66559675590123,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer8": {
+          "deltaX": -153.1094946839587,
+          "deltaY": 12.497169195265656,
+          "widthFactor": 5.832939387947234,
+          "heightFactor": 3.275187388168348,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer7": {
+          "deltaX": -236.9299292542712,
+          "deltaY": 62.934241949171906,
+          "widthFactor": 50.95827022568801,
+          "heightFactor": 28.923933483709718,
+          "deltaAngle": -19.783522028193204
+        },
+        "layer6": {
+          "deltaX": -70.62700030578526,
+          "deltaY": 23.026885055169828,
+          "widthFactor": 30.37896364280614,
+          "heightFactor": 17.057717634030464,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer4": {
+          "deltaX": -155.53490972300892,
+          "deltaY": 10.477698980441062,
+          "widthFactor": 690.8291494826511,
+          "heightFactor": 434.31155281181526,
+          "deltaAngle": -41.91207202513834
+        }
+      }
+    },
+    {
+      "frameId": "frame8074",
+      "title": "New frame",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "layer1": {
+          "link": false,
+          "referenceElementId": "path6968",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer3": {
+          "link": false,
+          "referenceElementId": "circle10825",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer9": {
+          "link": false,
+          "referenceElementId": "path6929",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer8": {
+          "link": false,
+          "referenceElementId": "path6675-0",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer7": {
+          "link": false,
+          "referenceElementId": "path6653",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer6": {
+          "link": false,
+          "referenceElementId": "path8079",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer5": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer4": {
+          "link": false,
+          "referenceElementId": "path6653-4",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "layer1": {
+          "cx": -12212.886283568092,
+          "cy": -2961.233955120265,
+          "width": 60143.83851565497,
+          "height": 33803.47128252141,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.998783454987805,
+          "clipHeightFactor": 0.999999999999981
+        },
+        "layer3": {
+          "cx": -12212.88594642937,
+          "cy": -2961.233931840706,
+          "width": 60143.83809516337,
+          "height": 33803.471046186714,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878072,
+          "clipHeightFactor": 0.9999999999999836
+        },
+        "layer9": {
+          "cx": -12212.88594642937,
+          "cy": -2961.233931840706,
+          "width": 60143.83809516337,
+          "height": 33803.471046186714,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878072,
+          "clipHeightFactor": 0.9999999999999836
+        },
+        "layer8": {
+          "cx": -12212.88594642939,
+          "cy": -2961.233931840712,
+          "width": 60143.8380951635,
+          "height": 33803.471046186794,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.998783454987805,
+          "clipHeightFactor": 0.9999999999999832
+        },
+        "layer7": {
+          "cx": -12212.885946429416,
+          "cy": -2961.2339318407176,
+          "width": 60143.838095163585,
+          "height": 33803.47104618683,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878056,
+          "clipHeightFactor": 0.9999999999999826
+        },
+        "layer6": {
+          "cx": -12128.757822168398,
+          "cy": -2947.212577797214,
+          "width": 60143.8380951635,
+          "height": 33803.47104618678,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878059,
+          "clipHeightFactor": 0.9999999999999832
+        },
+        "layer5": {
+          "cx": -12212.885946429362,
+          "cy": -2961.2339318407057,
+          "width": 60143.83809516334,
+          "height": 33803.47104618669,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878079,
+          "clipHeightFactor": 0.9999999999999839
+        },
+        "layer4": {
+          "cx": -12212.885946429451,
+          "cy": -2961.2339318407126,
+          "width": 60143.83809516381,
+          "height": 33803.47104618695,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878021,
+          "clipHeightFactor": 0.9999999999999802
+        },
+        "__sozi_auto__": {
+          "cx": -12212.885946429362,
+          "cy": -2961.2339318407057,
+          "width": 60143.83809516334,
+          "height": 33803.47104618669,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878079,
+          "clipHeightFactor": 0.9999999999999839
+        }
+      },
+      "cameraOffsets": {
+        "layer1": {
+          "deltaX": -13127.314323118873,
+          "deltaY": -3500.984260296046,
+          "widthFactor": 197.7668486769052,
+          "heightFactor": 63.35023716468627,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer3": {
+          "deltaX": -13430.236410296557,
+          "deltaY": -3323.941939653206,
+          "widthFactor": 41.30682912008151,
+          "heightFactor": 23.21624702369545,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer9": {
+          "deltaX": -13430.236410296557,
+          "deltaY": -3323.941939653206,
+          "widthFactor": 41.30682912008151,
+          "heightFactor": 23.21624702369545,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer8": {
+          "deltaX": -13430.236166155952,
+          "deltaY": -3323.941939653212,
+          "widthFactor": 81.3035695615009,
+          "heightFactor": 45.651841709709316,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer7": {
+          "deltaX": -13514.056600726291,
+          "deltaY": -3273.5048668993113,
+          "widthFactor": 710.2918430095422,
+          "heightFactor": 403.1619191593586,
+          "deltaAngle": -19.783522028193204
+        },
+        "layer6": {
+          "deltaX": -13347.753671777773,
+          "deltaY": -3313.412223793308,
+          "widthFactor": 423.44314237909924,
+          "heightFactor": 237.76234244513674,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer4": {
+          "deltaX": -13432.661581195076,
+          "deltaY": -3325.9614098680563,
+          "widthFactor": 9629.257579143472,
+          "heightFactor": 6053.73675206762,
+          "deltaAngle": -41.91207202513834
+        }
+      }
+    },
+    {
+      "frameId": "frame9700",
+      "title": "New frame",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "layer1": {
+          "link": false,
+          "referenceElementId": "rect6711-3",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer3": {
+          "link": false,
+          "referenceElementId": "circle10825",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer9": {
+          "link": false,
+          "referenceElementId": "path6929",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer8": {
+          "link": false,
+          "referenceElementId": "path6675-0",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer7": {
+          "link": false,
+          "referenceElementId": "path6653",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer6": {
+          "link": false,
+          "referenceElementId": "path8079",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer5": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer4": {
+          "link": false,
+          "referenceElementId": "path6653-4",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "layer1": {
+          "cx": 46006.484034139256,
+          "cy": -3804.6816011500555,
+          "width": 38769.25456275468,
+          "height": 21790.01898782562,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878027,
+          "clipHeightFactor": 0.9999999999999792
+        },
+        "layer3": {
+          "cx": 46006.48396424104,
+          "cy": -3804.6815719735896,
+          "width": 38769.25429170201,
+          "height": 21790.01883548215,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878045,
+          "clipHeightFactor": 0.9999999999999819
+        },
+        "layer9": {
+          "cx": 46006.48396424104,
+          "cy": -3804.6815719735896,
+          "width": 38769.25429170201,
+          "height": 21790.01883548215,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878045,
+          "clipHeightFactor": 0.9999999999999819
+        },
+        "layer8": {
+          "cx": 46006.4839642412,
+          "cy": -3804.681571973606,
+          "width": 38769.254291702164,
+          "height": 21790.01883548224,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878016,
+          "clipHeightFactor": 0.9999999999999801
+        },
+        "layer7": {
+          "cx": 46006.4839642412,
+          "cy": -3804.681571973606,
+          "width": 38769.254291702164,
+          "height": 21790.01883548224,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878032,
+          "clipHeightFactor": 0.9999999999999805
+        },
+        "layer6": {
+          "cx": 46090.61208850218,
+          "cy": -3790.660217930108,
+          "width": 38769.254291702164,
+          "height": 21790.01883548224,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878023,
+          "clipHeightFactor": 0.9999999999999801
+        },
+        "layer5": {
+          "cx": 46006.48396424104,
+          "cy": -3804.681571973589,
+          "width": 38769.25429170202,
+          "height": 21790.018835482155,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878045,
+          "clipHeightFactor": 0.9999999999999819
+        },
+        "layer4": {
+          "cx": 46006.48396424125,
+          "cy": -3804.6815719736005,
+          "width": 38769.25429170222,
+          "height": 21790.01883548228,
+          "opacity": 0,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.998783454987801,
+          "clipHeightFactor": 0.9999999999999793
+        },
+        "__sozi_auto__": {
+          "cx": 46006.48396424104,
+          "cy": -3804.681571973589,
+          "width": 38769.25429170202,
+          "height": 21790.018835482155,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878045,
+          "clipHeightFactor": 0.9999999999999819
+        }
+      },
+      "cameraOffsets": {
+        "layer3": {
+          "deltaX": 44789.13350037385,
+          "deltaY": -4167.38957978609,
+          "widthFactor": 26.626750351489544,
+          "heightFactor": 14.965399832589014,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer9": {
+          "deltaX": 44789.13350037385,
+          "deltaY": -4167.38957978609,
+          "widthFactor": 26.626750351489544,
+          "heightFactor": 14.965399832589014,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer8": {
+          "deltaX": 44789.133744514635,
+          "deltaY": -4167.389579786106,
+          "widthFactor": 52.409005859677585,
+          "heightFactor": 29.427584207842266,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer7": {
+          "deltaX": 44705.31330994432,
+          "deltaY": -4116.9525070322,
+          "widthFactor": 457.86045512072394,
+          "heightFactor": 259.88176776960205,
+          "deltaAngle": -19.783522028193204
+        },
+        "layer6": {
+          "deltaX": 44871.616238892806,
+          "deltaY": -4156.859863926202,
+          "widthFactor": 272.9552250888507,
+          "heightFactor": 153.263725880965,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer4": {
+          "deltaX": 44786.70832947562,
+          "deltaY": -4169.409050000944,
+          "widthFactor": 6207.105292073685,
+          "heightFactor": 3902.2926868181603,
+          "deltaAngle": -41.91207202513834
+        }
+      }
+    },
+    {
+      "frameId": "frame2551",
+      "title": "New frame",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "layer1": {
+          "link": false,
+          "referenceElementId": "rect6711-3",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer3": {
+          "link": false,
+          "referenceElementId": "circle10825",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer9": {
+          "link": false,
+          "referenceElementId": "path6929",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer8": {
+          "link": false,
+          "referenceElementId": "path6675-0",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer7": {
+          "link": false,
+          "referenceElementId": "path6653",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer6": {
+          "link": false,
+          "referenceElementId": "path8079",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer5": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer4": {
+          "link": false,
+          "referenceElementId": "path6653-4",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "layer1": {
+          "cx": 78817.42619880995,
+          "cy": -4173.767430593757,
+          "width": 21588.17161539291,
+          "height": 12133.49791522083,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878007,
+          "clipHeightFactor": 0.9999999999999782
+        },
+        "layer3": {
+          "cx": 78817.42589951614,
+          "cy": -4173.767398836858,
+          "width": 21588.171464460618,
+          "height": 12133.497830390274,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878041,
+          "clipHeightFactor": 0.9999999999999813
+        },
+        "layer9": {
+          "cx": 78817.42589951614,
+          "cy": -4173.767398836858,
+          "width": 21588.171464460618,
+          "height": 12133.497830390274,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878041,
+          "clipHeightFactor": 0.9999999999999813
+        },
+        "layer8": {
+          "cx": 78817.4258995165,
+          "cy": -4173.767398836876,
+          "width": 21588.171464460705,
+          "height": 12133.497830390323,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.998783454987801,
+          "clipHeightFactor": 0.9999999999999799
+        },
+        "layer7": {
+          "cx": 78817.4258995165,
+          "cy": -4173.767398836876,
+          "width": 21588.171464460705,
+          "height": 12133.497830390323,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878025,
+          "clipHeightFactor": 0.9999999999999802
+        },
+        "layer6": {
+          "cx": 78901.55402377748,
+          "cy": -4159.746044793378,
+          "width": 21588.171464460705,
+          "height": 12133.497830390323,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878016,
+          "clipHeightFactor": 0.9999999999999799
+        },
+        "layer5": {
+          "cx": 78817.42589951614,
+          "cy": -4173.767398836855,
+          "width": 21588.171464460655,
+          "height": 12133.497830390295,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878021,
+          "clipHeightFactor": 0.9999999999999805
+        },
+        "layer4": {
+          "cx": 78817.4258995166,
+          "cy": -4173.76739883687,
+          "width": 21588.171464460775,
+          "height": 12133.497830390363,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549877983,
+          "clipHeightFactor": 0.9999999999999778
+        },
+        "__sozi_auto__": {
+          "cx": 78817.42589951614,
+          "cy": -4173.767398836855,
+          "width": 21588.171464460655,
+          "height": 12133.497830390295,
+          "opacity": 1,
+          "angle": -0.27330208638974796,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9987834549878021,
+          "clipHeightFactor": 0.9999999999999805
+        }
+      },
+      "cameraOffsets": {
+        "layer3": {
+          "deltaX": 77600.07543564895,
+          "deltaY": -4536.475406649358,
+          "widthFactor": 14.826770920181865,
+          "heightFactor": 8.333294604773748,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer9": {
+          "deltaX": 77600.07543564895,
+          "deltaY": -4536.475406649358,
+          "widthFactor": 14.826770920181865,
+          "heightFactor": 8.333294604773748,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer8": {
+          "deltaX": 77600.07567978994,
+          "deltaY": -4536.475406649376,
+          "widthFactor": 29.18329551215546,
+          "heightFactor": 16.38638001349761,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer7": {
+          "deltaX": 77516.25524521963,
+          "deltaY": -4486.03833389547,
+          "widthFactor": 254.95383371502632,
+          "heightFactor": 144.7118925962453,
+          "deltaAngle": -19.783522028193204
+        },
+        "layer6": {
+          "deltaX": 77682.55817416811,
+          "deltaY": -4525.945690789472,
+          "widthFactor": 151.99168281655025,
+          "heightFactor": 85.34297741982977,
+          "deltaAngle": -0.27330208638974796
+        },
+        "layer4": {
+          "deltaX": 77597.65026475098,
+          "deltaY": -4538.494876864213,
+          "widthFactor": 3456.3484851945836,
+          "heightFactor": 2172.9425847009998,
+          "deltaAngle": -41.91207202513834
+        }
+      }
+    }
+  ],
+  "elementsToHide": [],
+  "selectedFrames": [
+    "frame9591"
+  ],
+  "selectedLayers": [
+    "layer1",
+    "layer3",
+    "layer9",
+    "layer8",
+    "layer7",
+    "layer6",
+    "layer5",
+    "layer4",
+    "__sozi_auto__"
+  ],
+  "editableLayers": [
+    "layer4",
+    "layer9",
+    "layer8",
+    "layer7",
+    "layer6",
+    "layer5",
+    "layer1",
+    "layer3"
+  ]
+}
