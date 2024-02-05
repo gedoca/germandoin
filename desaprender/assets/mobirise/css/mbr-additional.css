@@ -4475,6 +4475,206 @@ section.lazy-placeholder:after {
 .cid-u2SR3eb4aM .mbr-text {
   color: #767676;
 }
+.cid-u3qFgvt8Ob {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-u3qFgvt8Ob .item {
+  padding-bottom: 2rem;
+}
+.cid-u3qFgvt8Ob .item-wrapper {
+  height: 100%;
+}
+.cid-u3qFgvt8Ob .item-wrapper img {
+  height: 100%;
+  object-fit: cover;
+}
+.cid-u3qFgvt8Ob .carousel-control,
+.cid-u3qFgvt8Ob .close {
+  background: #1b1b1b;
+}
+.cid-u3qFgvt8Ob .carousel-control-prev {
+  margin-left: 2.5rem;
+}
+.cid-u3qFgvt8Ob .carousel-control-next {
+  margin-right: 2.5rem;
+}
+.cid-u3qFgvt8Ob .close {
+  position: fixed;
+  opacity: 0.5;
+  font-size: 35px;
+  font-weight: 300;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  color: #fff;
+  top: 2.5rem;
+  right: 2.5rem;
+  line-height: 70px;
+  border: none;
+  text-align: center;
+  text-shadow: none;
+  z-index: 5;
+  -webkit-transition: opacity 0.3s ease;
+  -moz-transition: opacity 0.3s ease;
+  -o-transition: opacity 0.3s ease;
+  transition: opacity 0.3s ease;
+  font-family: 'MobiriseIcons';
+}
+.cid-u3qFgvt8Ob .close::before {
+  content: '\e91a';
+}
+.cid-u3qFgvt8Ob .close:hover {
+  opacity: 1;
+  background: #000;
+  color: #fff;
+}
+.cid-u3qFgvt8Ob .carousel-control {
+  position: fixed;
+  width: 70px;
+  height: 70px;
+  top: 50%;
+  margin-top: -35px;
+  line-height: 70px;
+  border-radius: 50%;
+  font-size: 35px;
+  border: 0;
+  opacity: 0.5;
+  text-shadow: none;
+  z-index: 5;
+  color: #fff;
+  -webkit-transition: all 0.2s ease-in-out 0s;
+  -o-transition: all 0.2s ease-in-out 0s;
+  transition: all 0.2s ease-in-out 0s;
+}
+.cid-u3qFgvt8Ob .carousel-inner > .active {
+  display: block;
+}
+.cid-u3qFgvt8Ob .carousel-control.left {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-u3qFgvt8Ob .carousel-control.right {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-u3qFgvt8Ob .carousel-control .icon-next,
+.cid-u3qFgvt8Ob .carousel-control .icon-prev {
+  margin-top: -18px;
+  font-size: 40px;
+  line-height: 27px;
+}
+.cid-u3qFgvt8Ob .carousel-control:hover {
+  background: #1b1b1b;
+  color: #fff;
+  opacity: 1;
+}
+@media (max-width: 768px) {
+  .cid-u3qFgvt8Ob .carousel-control,
+  .cid-u3qFgvt8Ob .carousel-indicators,
+  .cid-u3qFgvt8Ob .modal .close {
+    position: fixed;
+  }
+}
+@media (max-width: 767px) {
+  .cid-u3qFgvt8Ob .mbr-slider .carousel-control {
+    top: auto;
+    bottom: 20px;
+  }
+  .cid-u3qFgvt8Ob .mbr-slider > .container .carousel-control {
+    margin-bottom: 0;
+  }
+}
+.cid-u3qFgvt8Ob .carousel-indicators {
+  bottom: 0;
+  margin-bottom: 3px;
+}
+@media (max-width: 991px) {
+  .cid-u3qFgvt8Ob .carousel-indicators {
+    margin-bottom: 3.625rem !important;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-u3qFgvt8Ob .carousel-indicators {
+    display: none;
+  }
+}
+.cid-u3qFgvt8Ob .carousel-indicators .active,
+.cid-u3qFgvt8Ob .carousel-indicators li {
+  width: 7px;
+  height: 7px;
+  margin: 3px;
+  background: #1b1b1b;
+  opacity: 0.5;
+  border: 4px solid #1b1b1b;
+}
+.cid-u3qFgvt8Ob .carousel-indicators .active {
+  background: #fff;
+}
+.cid-u3qFgvt8Ob .carousel-indicators li {
+  max-width: 15px;
+  max-height: 15px;
+  border-radius: 50%;
+}
+.cid-u3qFgvt8Ob .modal {
+  padding-left: 0 !important;
+  position: fixed;
+  overflow: hidden;
+  padding-right: 0 !important;
+}
+.cid-u3qFgvt8Ob .modal-dialog {
+  margin: 0 auto;
+  max-width: 100%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-u3qFgvt8Ob .modal-content {
+  border-radius: 0;
+  border: none;
+  background: transparent;
+}
+.cid-u3qFgvt8Ob .modal-body {
+  padding: 0;
+  display: flex;
+  align-items: center;
+}
+.cid-u3qFgvt8Ob .modal-body img {
+  width: 100%;
+  object-fit: contain;
+  max-height: calc(98.25vh);
+  height: fit-content;
+}
+.cid-u3qFgvt8Ob .carousel {
+  width: 100%;
+}
+.cid-u3qFgvt8Ob .modal-backdrop.in {
+  opacity: 0.8;
+}
+.cid-u3qFgvt8Ob .modal.fade .modal-dialog {
+  -webkit-transition: margin-top 0.3s ease-out;
+  -moz-transition: margin-top 0.3s ease-out;
+  -o-transition: margin-top 0.3s ease-out;
+  transition: margin-top 0.3s ease-out;
+}
+.cid-u3qFgvt8Ob .modal.fade .modal-dialog,
+.cid-u3qFgvt8Ob .modal.in .modal-dialog {
+  -webkit-transform: none;
+  -ms-transform: none;
+  -o-transform: none;
+  transform: none;
+}
+.cid-u3qFgvt8Ob .mbr-gallery .item-wrapper {
+  cursor: pointer;
+}
+.cid-u3qFgvt8Ob a {
+  display: block;
+}
+.cid-u3qFgvt8Ob a.img {
+  pointer-events: none;
+}
 .cid-u2SR3i0Guq {
   background: #ffffff;
 }
